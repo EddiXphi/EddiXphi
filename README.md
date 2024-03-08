@@ -1,5 +1,5 @@
 
-- 👋 Hi, I'm @EddiXphi
+- 👋 Hi, I'm @EddyXphi
 - 👀 I am interested in data science related topics such as Machine Learning, Natural Language Processing, Time Series Analysis, and learning new Exploratory Data Analysis techniques. 
 - 🌱 I am currently learning to use Python libraries such as NLTK, Scikit-learn, Pandas, Numpy, Matplotlib and Seaborn for natural language processing, machine learning and time series analysis.
 - 📫 You can contact me at my email eddixphi@gmail.com.
